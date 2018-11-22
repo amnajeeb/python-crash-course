@@ -17,3 +17,5 @@ print("Github is great")
 print("let's learn how to use it")
 
 print("Push from ubuntu")
+
+print("Push from Mac")
