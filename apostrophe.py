@@ -11,3 +11,5 @@ print(name+saying.lstrip())
 
 cloud = "Cloud is AWESOME!"
 print(cloud.upper())
+
+print("Github is great")
