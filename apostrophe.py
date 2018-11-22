@@ -13,3 +13,6 @@ cloud = "Cloud is AWESOME!"
 print(cloud.upper())
 
 print("Final change from Mac")
+
+new_message = "Setting Github has been real fun!"
+print(new_message.title())
