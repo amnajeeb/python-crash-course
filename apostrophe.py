@@ -8,5 +8,3 @@ print(name+saying)
 name = "John Doe"
 saying = " is the best"
 print(name+saying.lstrip())
-
-ppp
