@@ -8,8 +8,3 @@ print(name+saying)
 name = "John Doe"
 saying = " is the best"
 print(name+saying.lstrip())
-
-cloud = "Cloud is AWESOME!"
-print(cloud.upper())
-
-print('final attempt with sublime')
