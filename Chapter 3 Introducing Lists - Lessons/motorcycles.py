@@ -57,3 +57,11 @@ print('The last team to win the World Series was the '+last_winners+'.')
 motorcycles = ['honda', 'yamaha', 'ducati']
 first_owned = motorcycles.pop(0)
 print('The first motorcycle I owned was a '+first_owned.title()+'.')
+
+# The remove() method can be used to remove an item based on its value
+# This method only removes the first occurence in a list
+
+al_east = ['Yankees', 'Red Sox', 'Rays', 'Orioles', 'Blue Jays']
+world_series_winner = 'Red Sox'
+al_east.remove(world_series_winner)
+print(al_east)
