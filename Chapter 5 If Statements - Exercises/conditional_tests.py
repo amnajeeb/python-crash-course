@@ -53,6 +53,6 @@ login_username = ' r33c3  '       # Will trigger 'You've been banned'.
 login_username = login_username.lower().strip()
 
 if login_username not in banned_users:
-    print('\nWelcome back '+ login_username +'!')
+    print('\nWelcome back ' + login_username + '!')
 else:
     print('\nYou\'ve been banned.')
