@@ -38,7 +38,8 @@ else:
 print('\nYou will play in the ' + str(division.lower()) + ' division.')
 
 
-# Not using else statements at the end, but another elif
+# Not using else statements at the end, but another elif to test for a final
+# condition.
 age = 19
 
 if age < 4:

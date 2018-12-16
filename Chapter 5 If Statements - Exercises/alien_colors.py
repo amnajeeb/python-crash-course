@@ -121,3 +121,14 @@ if 'mangoes' in fruits:
 
 
 favorite_fruits = fruits[0:3]  # Copying the list and selecting first 3 items.
+
+if 'grapes' in favorite_fruits:
+    print('\nYou really like grapes!')
+if 'apples' in favorite_fruits:
+    print('\nYou really like apples!')
+if 'raspberries' in favorite_fruits:
+    print('\nYou really like raspberries!')
+if 'strawberries' in favorite_fruits:
+    print('\nYou really like strawberries!')
+if 'oranges' in favorite_fruits:
+    print('\nYou really like oranges!')
