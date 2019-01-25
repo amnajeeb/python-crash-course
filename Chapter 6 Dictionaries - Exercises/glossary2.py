@@ -72,4 +72,4 @@ for name in sorted(names):
 # VERY IMPORTANT: the loop has to go through names in 'names', not in
 # favorite_languages.keys()!!! See ln.65.
 # NB: Because the loop goes through name, if we want to sort the names by
-# alphabetical order, sorted() has to be applied to variable names!
+# alphabetical order, sorted() has to be applied to the variable names!
